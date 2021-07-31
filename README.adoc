@@ -9,3 +9,5 @@ The {repository-name} library enables the Arduino link:https://store.arduino.cc/
  GNU GENERAL PUBLIC LICENSE v3
 
 
+== In appreciation of ==
+MadElectron by Discord
